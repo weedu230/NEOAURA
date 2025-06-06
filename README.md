@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/8UGoP6fABtI4M/giphy.gif" width="150px" />
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG44aHZlZ3F6d2Q0bWs3dXZ3Z2MwMm50czZtZnBqZXRubTI4MGxhdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="150px" />
   <h1>🤖 NeoAura – AI Bot Management System</h1>
   <p>
     A Java + Spring Boot based platform to interact with multiple AI models like ChatGPT, Bard, DeepSeek, and more!
