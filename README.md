@@ -10,8 +10,7 @@
 
 ### 📸 Project Preview
 
-![NeoAura UI Screenshot](assets/neoauraui.png)  
-*(Insert a real screenshot of your JavaFX interface here)*
+
 
 ---
 
@@ -39,7 +38,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/neoaura.git
+git clone https://github.com/weedu230/neoaura.git
 
 # Backend (Spring Boot)
 cd backend
