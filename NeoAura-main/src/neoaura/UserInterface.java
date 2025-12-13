@@ -77,9 +77,14 @@ public class UserInterface {
         scrollpane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
         scrollpane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
 
-        String apiKey1 = "AIzaSyBV9gshoMzZs-oeubYD2NL0HxY9hlzLRNw";
-        String apiKey2 = "AIzaSyAvv5A7yBE9pUF8sfeQWs_pjMd849as5P4";
-        String apiKey3 = "AIzaSyBL3bTjGmJeNcQQFSG3b4p8WC5XCQBVk0Q";
+        //////////////////////////////////////////////////////
+
+
+        String apiKey1 = "api key 1";
+        String apiKey2 = "api key 2";
+        String apiKey3 = "api key 3";
+
+        ////////////////////////////////////////////////////////////////
         Map<String, String> botKeyMap = new HashMap<>() {{
             put("ChatGPT", apiKey1);
             put("Deepseek", apiKey1);
